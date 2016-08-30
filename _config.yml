@@ -5,8 +5,8 @@ logo: /static/img/avatar.png
 github: https://github.com/dariocavada
 about: Freelance developer and musician
 
-baseurl: "http://dariocavada.github.com"
-url: "http://dariocavada.github.com"
+baseurl: "https://dariocavada.github.com"
+url: "https://dariocavada.github.com"
 
 disqus_shortname: dariocavada
 google_analytics: UA-72862926-1
