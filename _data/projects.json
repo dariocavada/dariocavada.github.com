@@ -10,3 +10,40 @@
   date: Jan 2015
   tags:
   - WebSite
+- name: Stencyl Italia
+  image: stencylitalia.jpg
+  url: http://www.stencylitalia.it
+  date: Giu 2015
+  tags:
+  - WebSite
+- name: Arte Murale
+  image: artemurale.jpg
+  url: http://www.artemurale.com
+  date: Mar 2011
+  tags:
+  - WebSite
+- name: Cose Buone da Paolo
+  image: cosebuonedapaolo.jpg
+  url: http://www.cosebuonedapaolo.it
+  date: Gen 2016
+  tags:
+  - WebSite
+  - ECommerce
+- name: Realtà Aumentata
+  image: rasomar.jpg
+  url: http://cdn.merlino-dreamlab.com/rasom/
+  date: Feb 2014
+  tags:
+  - Augmented Reality
+- name: Il Bosco Nascosto
+  image: ilbosconascosto.jpg
+  url: http://www.merlino-dreamlab.com
+  date: Giu 2016
+  tags:
+  - Percorso Didattico
+- name: Il Regno del Salvan
+  image: buffaure.jpg
+  url: http://www.merlino-dreamlab.com
+  date: Apr 2016
+  tags:
+  - Percorso Didattico
