@@ -1,7 +1,7 @@
 ---
-title: About
 layout: page
-permalink: "/about/"
+title: About
+permalink: /about/
 ---
 
 Application Delevoper, and Project Manager in a wide variety of business applications. 
