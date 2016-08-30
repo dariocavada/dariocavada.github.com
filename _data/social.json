@@ -1,18 +1,8 @@
-[
-  {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
-    "icon": "fa-twitter",
-    "link": ""
-  },
-  {
-    "icon": "fa-linkedin",
-    "link": ""
-  },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
-  }
-]
+- icon: fa-facebook
+  link: https://www.facebook.com/dario.cavada
+- icon: fa-twitter
+  link: https://twitter.com/dariocavada
+- icon: fa-linkedin
+  link: https://www.linkedin.com/in/dariocavada
+- icon: fa-stack-exchange
+  link: http://stackexchange.com/users/2820602/dario-cavada
