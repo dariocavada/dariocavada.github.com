@@ -3,10 +3,10 @@
   <channel>
     <title>Dario Cavada</title>
     <description>Personal Web Site</description>
-    <link>https://dariocavada.github.comhttps://dariocavada.github.com/</link>
-    <atom:link href="https://dariocavada.github.comhttps://dariocavada.github.com/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Aug 2016 11:40:59 +0200</pubDate>
-    <lastBuildDate>Tue, 30 Aug 2016 11:40:59 +0200</lastBuildDate>
+    <link>https://dariocavada.github.com/</link>
+    <atom:link href="https://dariocavada.github.com/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 30 Aug 2016 12:01:52 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2016 12:01:52 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Sat, 04 Jun 2016 15:50:39 +0200</pubDate>
-        <link>https://dariocavada.github.comhttps://dariocavada.github.com/jekyll/2016/06/04/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://dariocavada.github.comhttps://dariocavada.github.com/jekyll/2016/06/04/welcome-to-jekyll.html</guid>
+        <link>https://dariocavada.github.com/jekyll/2016/06/04/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://dariocavada.github.com/jekyll/2016/06/04/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -150,8 +150,8 @@ end tell
     &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Image of the day downloaded.'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Sat, 04 Jun 2016 00:00:00 +0200</pubDate>
-        <link>https://dariocavada.github.comhttps://dariocavada.github.com/others/2016/06/04/example-content.html</link>
-        <guid isPermaLink="true">https://dariocavada.github.comhttps://dariocavada.github.com/others/2016/06/04/example-content.html</guid>
+        <link>https://dariocavada.github.com/others/2016/06/04/example-content.html</link>
+        <guid isPermaLink="true">https://dariocavada.github.com/others/2016/06/04/example-content.html</guid>
         
         
         <category>others</category>
@@ -183,8 +183,8 @@ end tell
 &lt;p&gt;One cool thing about this is the fact that images adapt themselves to the screen size of device. Try to resize your browser window and check for yourself, Have fun.&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jun 2015 15:50:39 +0200</pubDate>
-        <link>https://dariocavada.github.comhttps://dariocavada.github.com/others/2015/06/04/test-page.html</link>
-        <guid isPermaLink="true">https://dariocavada.github.comhttps://dariocavada.github.com/others/2015/06/04/test-page.html</guid>
+        <link>https://dariocavada.github.com/others/2015/06/04/test-page.html</link>
+        <guid isPermaLink="true">https://dariocavada.github.com/others/2015/06/04/test-page.html</guid>
         
         
         <category>others</category>
